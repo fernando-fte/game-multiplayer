@@ -11,7 +11,7 @@ Camada de apresentação visual para o cliente.
 - Esta camada deve apenas exibir o jogo, sem possuir nenhuma regra de negócio
 - iremos utilizar um canvaz para o game
 
-## Lógica/Dados
+## Camada do jogo (Lógica/Dados)
 Esta camada reserva de forma abstrata todas as informações do jogo e regras do jogo, e do tratamento de dados.
 
 ## Imputs
@@ -19,5 +19,6 @@ Esta camada é responsável por capturar os eventos do cliente e decide oque vai
 
 ## Network
 Esta camada faz a comunicação entre os clientes e o server.
+
 
 
